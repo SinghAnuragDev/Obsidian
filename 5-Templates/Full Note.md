@@ -1,4 +1,12 @@
 
 {{date}} {{time}}
 
-Status
+Status : 
+
+Tag : 
+
+## {{Title}}
+
+
+
+## References
