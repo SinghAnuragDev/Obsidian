@@ -1,4 +1,5 @@
-[[Power]]
+
+#Power
 
 
 Hey.
